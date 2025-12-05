@@ -1,6 +1,5 @@
 # 💡 LuminaZK: Private & Trustless P2P Data Exchange on Solana
 
-[Tambahkan Badge seperti: Build Status, License, Solana Compatibility, dll.]
 
 ## ✨ Summary: Verify Everything, Reveal Nothing
 
